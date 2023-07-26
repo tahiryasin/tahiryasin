@@ -3,7 +3,7 @@
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbhishekDoshi26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhishekDoshi26) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AbhishekDoshi26) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12574439) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbhishekDoshi26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbhishekDoshi26) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahiryasin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahiryasin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tahiryasin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12574439) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tahiryasin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tahiryasin) 
 
 <br>
 
@@ -13,27 +13,27 @@
 <br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=AbhishekDoshi26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDoshi26&theme=radical&hide_border=false" height=150px><br/>
+<img src="https://github-readme-stats-tahiryasin.vercel.app/api?username=tahiryasin&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahiryasin&theme=radical&hide_border=false" height=150px><br/>
 
 <br>
 
 ## 📦 Flutter Packages:
 
-<a href="https://github.com/AbhishekDoshi26/contactus">
-  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=radical" />
+<a href="https://github.com/tahiryasin/contactus">
+  <img align="center" src="https://github-readme-stats-tahiryasin.vercel.app/api/pin/?username=tahiryasin&repo=contactus&theme=radical" />
 </a>
-<a href="https://github.com/AbhishekDoshi26/super_extensions">
- <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=radical" />
+<a href="https://github.com/tahiryasin/super_extensions">
+ <img align="center" src="https://github-readme-stats-tahiryasin.vercel.app/api/pin/?username=tahiryasin&repo=super_extensions&theme=radical" />
 </a>
-<a href="https://github.com/AbhishekDoshi26/parent-child-checkbox">
-  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=parent-child-checkbox&theme=radical" />
+<a href="https://github.com/tahiryasin/parent-child-checkbox">
+  <img align="center" src="https://github-readme-stats-tahiryasin.vercel.app/api/pin/?username=tahiryasin&repo=parent-child-checkbox&theme=radical" />
 </a>
 
 <br><br>
 
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekDoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tahiryasin&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 
 
@@ -43,7 +43,7 @@
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)   
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tahiryasin.tahiryasin)   
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AbhishekDoshi26) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhishekDoshi26) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahiryasin) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tahiryasin) 
