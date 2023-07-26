@@ -35,7 +35,7 @@ Key developer in most of the projects where ever I worked in the agile, scrum en
 <br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahiryasin&theme=2077" height=150px>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahiryasin" height=150px>
 
 <br>
 
