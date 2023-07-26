@@ -12,7 +12,12 @@ Key developer in most of the projects where ever I worked in the agile, scrum en
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahiryasinraja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahiryasin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tahir-yasin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1070732) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tahiryasin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tahiryasin) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahiryasinraja) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahiryasin) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tahir-yasin) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1070732) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tahiryasin) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tahiryasin) 
 
 <br>
 
@@ -33,19 +38,6 @@ Key developer in most of the projects where ever I worked in the agile, scrum en
 
 <br>
 
-## 📦 Flutter Packages:
-
-<a href="https://github.com/tahiryasin/contactus">
-  <img align="center" src="https://github-readme-stats-tahiryasin.vercel.app/api/pin/?username=tahiryasin&repo=contactus&theme=radical" />
-</a>
-<a href="https://github.com/tahiryasin/super_extensions">
- <img align="center" src="https://github-readme-stats-tahiryasin.vercel.app/api/pin/?username=tahiryasin&repo=super_extensions&theme=radical" />
-</a>
-<a href="https://github.com/tahiryasin/parent-child-checkbox">
-  <img align="center" src="https://github-readme-stats-tahiryasin.vercel.app/api/pin/?username=tahiryasin&repo=parent-child-checkbox&theme=radical" />
-</a>
-
-<br><br>
 
 
 ## 🏆 GitHub Trophies
