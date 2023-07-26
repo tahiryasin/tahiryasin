@@ -18,7 +18,7 @@ Key developer in most of the projects where ever I worked in the agile, scrum en
 
 ## 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/PHP-B0B3D6?style=flat&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-40b1f7?style=flat&logo=MYSQL&logoColor=ea8c10) 
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) 
