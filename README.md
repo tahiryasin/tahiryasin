@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I am a Google Developer Expert for Dart, Flutter & Firebase 💙💛<br>🤝 I love to help with Community Work<br>💙 I am the Organizer of Flutter Conf India - India's Largest Flutter Conference!<br>💬 Ask me about Flutter, Firebase and Community in general.<br>
+🔭 A seasoned Fullstack engineer having more than 13 years of diverse experience on major technologies like Laravel Framework, CakePHP, Yii Framework, CodeIgniter, Magento, WordPress, NodeJS, IONIC and Vue.js. 💛
+<br>
+Lead developer in most of the recent projects where I designed and developed scalable solutions, achieved application and data security, managed cloud architecture, code versioning through Github, Bitbucket and Gitlabs.
+<br>
+Very strong knowledge of Software Engineering, Architecture, Database design, UI/UX and SCRUM artefacts.
+<br>
+<br>
+Key developer in most of the projects where ever I worked in the agile, scrum environment. Experience of developing end to end solutions by benefiting from my sound knowledge of object-oriented design and best architectural approaches.
+<br>
+💬 Ask me about Magento, Laravel, WordPress, AWS and Community in general.<br>
 <br>
 
 ## 🌐 Socials:
@@ -46,4 +55,4 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tahiryasin.tahiryasin)   
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahiryasin) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tahiryasin) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahiryasin) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scriptbaker) 
