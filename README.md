@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About Me: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+
 🔭 A seasoned Fullstack engineer having more than 13 years of diverse experience on major technologies like Laravel Framework, CakePHP, Yii Framework, CodeIgniter, Magento, WordPress, NodeJS, IONIC and Vue.js. 
 <br><br>
 Lead developer in most of the recent projects where I designed and developed scalable solutions, achieved application and data security, managed cloud architecture, code versioning through Github, Bitbucket and Gitlabs.
