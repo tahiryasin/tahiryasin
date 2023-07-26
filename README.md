@@ -40,18 +40,17 @@ Key developer in most of the projects where ever I worked in the agile, scrum en
 <br>
 
 
-
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=tahiryasin&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 
-
 <br><br>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahiryasin) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scriptbaker) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahiryasin) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scriptbaker) 
