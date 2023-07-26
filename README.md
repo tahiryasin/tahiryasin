@@ -1,5 +1,4 @@
-# 💫 About me: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
-
+# 💫 About Me:
 🔭 A seasoned Fullstack engineer having more than 13 years of diverse experience on major technologies like Laravel Framework, CakePHP, Yii Framework, CodeIgniter, Magento, WordPress, NodeJS, IONIC and Vue.js. 
 <br><br>
 Lead developer in most of the recent projects where I designed and developed scalable solutions, achieved application and data security, managed cloud architecture, code versioning through Github, Bitbucket and Gitlabs.
@@ -15,6 +14,7 @@ Key developer in most of the projects where ever I worked in the agile, scrum en
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahiryasinraja) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahiryasin) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tahiryasin786) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tahir-yasin) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1070732) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tahiryasin) 
@@ -50,6 +50,7 @@ Key developer in most of the projects where ever I worked in the agile, scrum en
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
 
 
 ## 💰 You can help me by Donating
